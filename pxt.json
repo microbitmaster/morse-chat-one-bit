@@ -1,5 +1,5 @@
 {
-    "name": "Morse Chat one bit",
+    "name": "Morse Chat one bit / and +",
     "description": "",
     "dependencies": {
         "core": "*",
